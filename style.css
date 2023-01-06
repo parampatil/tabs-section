@@ -29,6 +29,7 @@ img{
     background-color: #227C70;
     border-radius: 0.5rem;
     grid-template-rows: auto 1fr;
+    transition: all 0.4s;
 }
 
 .button{
@@ -79,7 +80,7 @@ img{
 }
 
 .content.live{
-    display: block
+    display: block;
 }
 
 .button.live{
